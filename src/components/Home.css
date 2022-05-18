@@ -1,0 +1,14 @@
+.about-me{
+    width:80%;
+    background-color:#84BEB0;
+    color:white;
+    height:300px;
+}
+
+.home-bio{
+    text-align: justify;
+}
+
+.bio{
+    display:flex;
+}
