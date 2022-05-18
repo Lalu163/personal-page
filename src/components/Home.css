@@ -2,12 +2,22 @@
     width:70%;
     background-color:#84BEB0;
     color:white;
-    height:600px;
+    height:700px;
     border-radius:4px;
+}
+h1{
+    font-size: 50px;
+    padding: 10px 0 0;
+}
+
+.bio-container{
+    margin:30px;
 }
 
 .home-bio{
     text-align: justify;
+    font-size:25px;
+    margin-right: 40px;
 }
 
 .bio{
@@ -16,4 +26,11 @@
 
 .img-laura{
     border-radius:50%;
+    max-height: 300px;
+}
+
+.skills-container{
+    background-color:#DAFDF5;
+    height:250px;
+    width:700px;
 }
