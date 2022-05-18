@@ -1,8 +1,9 @@
 .about-me{
-    width:80%;
+    width:70%;
     background-color:#84BEB0;
     color:white;
-    height:300px;
+    height:600px;
+    border-radius:4px;
 }
 
 .home-bio{
@@ -11,4 +12,8 @@
 
 .bio{
     display:flex;
+}
+
+.img-laura{
+    border-radius:50%;
 }

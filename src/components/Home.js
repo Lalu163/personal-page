@@ -4,7 +4,7 @@ import Laura from "../assets/Laura.jpg";
 
 function Home() {
     return (
-        <div className="about-me">
+        <div className="about-me" id="about-me">
             <h1>About me</h1>
             <div className="bio">
                 <p className="home-bio">After more than 6 years dedicated to the food and customer service sector, I
