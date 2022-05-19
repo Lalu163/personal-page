@@ -2,6 +2,22 @@
     background-color:#84BEB0;
     color:white;
     width:70%;
-    height:400px;
+    height:600px;
     border-radius:4px;
+    text-align: justify;
+}
+
+.portfolio-container{
+    margin: 60px;
+}
+
+.portfolio-title{
+    font-size: 50px;
+    padding: 30px 0 0;
+    margin-bottom:0;
+}
+
+.portfolio-info{
+    text-align: justify;
+    font-size: 25px;
 }

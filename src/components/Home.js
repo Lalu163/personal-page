@@ -7,7 +7,7 @@ function Home() {
     return (
         <div className="about-me" id="about-me">
             <div className="bio-container">
-                <h1>About me</h1>
+                <h1 className="about-me-title">About me</h1>
                 <div className="bio">
                     <p className="home-bio">After more than 6 years dedicated to the food and customer service sector, I
                         decided to enter the
