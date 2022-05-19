@@ -1,6 +1,7 @@
 import React from 'react';
 import "./Home.css"
 import Laura from "../assets/Laura.jpg";
+import skills from "../assets/skills.png";
 
 function Home() {
     return (
@@ -18,7 +19,7 @@ function Home() {
                     <img src={Laura} className="img-laura"/>
                 </div>
                 <div className="skills-container">
-
+                    <img src={skills} className="skills" />
                 </div>
             </div>
         </div>

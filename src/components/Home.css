@@ -1,36 +1,45 @@
-.about-me{
-    width:70%;
-    background-color:#84BEB0;
-    color:white;
-    height:700px;
-    border-radius:4px;
+.about-me {
+    width: 70%;
+    background-color: #84BEB0;
+    color: white;
+    height: 700px;
+    border-radius: 4px;
 }
-h1{
+
+h1 {
     font-size: 50px;
-    padding: 10px 0 0;
+    padding: 30px 0 0;
+    margin-bottom:0;
 }
 
-.bio-container{
-    margin:30px;
+.bio-container {
+    margin: 60px;
 }
 
-.home-bio{
+.home-bio {
     text-align: justify;
-    font-size:25px;
-    margin-right: 40px;
+    font-size: 25px;
+    margin-right: 50px;
 }
 
-.bio{
-    display:flex;
+.bio {
+    display: flex;
+
 }
 
-.img-laura{
-    border-radius:50%;
-    max-height: 300px;
+.img-laura {
+    border-radius: 50%;
+    max-height: 500px;
+    max-width: 500px;
 }
 
-.skills-container{
-    background-color:#DAFDF5;
-    height:250px;
-    width:700px;
+.skills-container {
+    background-color: #DAFDF5;
+    border-radius: 4px;
+    height: 280px;
+    width: 620px;
+}
+
+.skills {
+    max-height: 290px;
 }
