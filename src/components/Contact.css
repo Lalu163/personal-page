@@ -10,6 +10,7 @@
     font-size: 50px;
     padding: 30px 0 0;
     margin-bottom:0;
+    text-align: center;
 }
 
 .contact-container{
@@ -21,8 +22,7 @@
     height:200px;
     width:800px;
     text-align: center;
-
-
+    border-radius:4px;
 }
 
 .mail-section{
@@ -32,7 +32,7 @@
 }
 
 .mail-icon{
-    max-height: 20px;
+    max-height: 40px;
     padding-top:18px;
     margin-right:10px;
     margin-bottom:3px;
@@ -41,6 +41,7 @@
 .mail{
     margin-left:0;
     margin-bottom:3px;
+    font-size: 20px;
 }
 
 .mobile-section{
@@ -49,7 +50,7 @@
 }
 
 .mobile-icon{
-    max-height: 20px;
+    max-height: 30px;
     margin-right:10px;
     padding-top:3px;
 }
@@ -57,4 +58,22 @@
 .mobile-phone{
     margin-left:0;
     margin-top:0;
+    font-size: 20px;
+}
+
+.link-icons{
+    width:150px;
+    display:flex;
+}
+
+.linkedin-icon{
+    max-height:45px;
+}
+
+.github-icon{
+    max-height:40px;
+}
+
+.resume-icon{
+    max-height:39px;
 }
