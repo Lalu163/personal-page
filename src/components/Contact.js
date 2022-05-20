@@ -24,7 +24,7 @@ function Contact() {
                 </div>
                 <div className="link-icons">
                     <a href="https://www.linkedin.com/in/laura-contreras-pulgar-77832320a/" target="_blank" rel="noreferrer">
-                        <img src={linkedin} className="linkedin-icon"/>
+                        <img title="linkedin"  src={linkedin} className="linkedin-icon"/>
                     </a>
                     <a href="https://github.com/Lalu163" target="_blank" rel="noreferrer">
                     <img src={github} className="github-icon"/>

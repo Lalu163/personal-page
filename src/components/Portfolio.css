@@ -2,7 +2,7 @@
     background-color:#84BEB0;
     color:white;
     width:70%;
-    height:700px;
+    height:800px;
     border-radius:4px;
     text-align: justify;
 }
@@ -26,4 +26,5 @@
 .slide-container{
     margin-left: 120px;
     margin-right: 100px;
+
 }
