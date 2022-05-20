@@ -44,9 +44,24 @@
     max-height: 290px;
 }
 
-@media (max-width: 600px){
+@media (max-width: 640px){
     .img-laura{
         max-height: 300px;
         max-width: 300px;
     }
+}
+.about-me {
+    width: 70%;
+    height: 700px;
+    border-radius: 4px;
+}
+
+.about-me-title {
+    font-size: 40px;
+    padding: 30px 0 0;
+    margin-bottom:0;
+}
+
+.home-bio {
+    font-size: 20px;
 }
