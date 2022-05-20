@@ -76,6 +76,7 @@
     .skills-container {
         height: 250px;
         width: 600px;
+        margin-top:5px;
     }
 
     .skills {
