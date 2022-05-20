@@ -49,21 +49,21 @@
         max-height: 300px;
         max-width: 300px;
     }
-
+}
+@media (max-width: 640px){
 .about-me {
     width: 70%;
     height: 700px;
     border-radius: 4px;
-}
+}}
 
+@media (max-width: 640px){
 .about-me-title {
     font-size: 40px;
     padding: 30px 0 0;
     margin-bottom:0;
-}
-
+}}
+@media (max-width: 640px){
 .home-bio {
     font-size: 20px;
-}
-
-}
+}}
