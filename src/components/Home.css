@@ -74,12 +74,12 @@
     }
 
     .skills-container {
-        height: 250px;
-        width: 550px;
+        height: 230px;
+        width: 600px;
     }
 
     .skills {
-        max-height: 230px;
+        max-height: 200px;
     }
 
 }
