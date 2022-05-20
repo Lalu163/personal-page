@@ -47,7 +47,7 @@
 @media only screen and (max-height: 767px) and (orientation: landscape) {
     .about-me {
         width: 70%;
-        height: 600px;
+        height: 650px;
     }
 
     .about-me-title {
@@ -79,7 +79,7 @@
     }
 
     .skills {
-        max-height: 200px;
+        max-height: 250px;
     }
 
 }
