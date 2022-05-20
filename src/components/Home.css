@@ -44,26 +44,43 @@
     max-height: 290px;
 }
 
-@media (max-width: 640px){
-    .img-laura{
-        max-height: 300px;
-        max-width: 300px;
+@media only screen and (max-height: 767px) and (orientation: landscape) {
+    .about-me {
+        width: 70%;
+        height: 700px;
     }
-}
-@media (max-width: 640px){
-.about-me {
-    width: 70%;
-    height: 700px;
-    border-radius: 4px;
-}}
 
-@media (max-width: 640px){
-.about-me-title {
-    font-size: 40px;
-    padding: 30px 0 0;
-    margin-bottom:0;
-}}
-@media (max-width: 640px){
-.home-bio {
-    font-size: 20px;
-}}
+    .about-me-title {
+        font-size: 40px;
+
+    }
+
+    .bio-container {
+        margin: 60px;
+    }
+
+    .home-bio {
+        text-align: justify;
+        font-size: 20px;
+        margin-right: 50px;
+    }
+
+    .bio {
+
+    }
+
+    .img-laura {
+        max-height: 400px;
+        max-width: 400px;
+    }
+
+    .skills-container {
+        height: 250px;
+        width: 600px;
+    }
+
+    .skills {
+        max-height: 250px;
+    }
+
+}
