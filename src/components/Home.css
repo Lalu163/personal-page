@@ -43,3 +43,10 @@
 .skills {
     max-height: 290px;
 }
+
+@media (max-width: 600px){
+    .img-laura{
+        max-height: 300px;
+        max-width: 300px;
+    }
+}
