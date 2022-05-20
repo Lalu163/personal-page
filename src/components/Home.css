@@ -47,7 +47,7 @@
 @media only screen and (max-height: 767px) and (orientation: landscape) {
     .about-me {
         width: 70%;
-        height: 700px;
+        height: 600px;
     }
 
     .about-me-title {
@@ -65,7 +65,7 @@
     }
 
     .bio {
-
+        margin-bottom:10px;
     }
 
     .img-laura {
@@ -75,12 +75,11 @@
 
     .skills-container {
         height: 250px;
-        width: 600px;
-        margin-top:5px;
+        width: 550px;
     }
 
     .skills {
-        max-height: 250px;
+        max-height: 230px;
     }
 
 }
