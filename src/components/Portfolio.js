@@ -11,7 +11,8 @@ function Portfolio() {
         <div className="portfolio" id="portfolio">
             <div className="portfolio-container">
                 <h1 className="portfolio-title">Portfolio</h1>
-                <p1 className="portfolio-info">Below are some screenshots of the current projects that I am worked as a contributor
+                <p1 className="portfolio-info">Below are some screenshots of the current projects that I am worked as a
+                    contributor
                     , and will continue to work
                     on daily on my own. I integrate all of the tips and techniques that I learn into my projects as soon
                     as I can in an effort to always improve my skill as a developer.
@@ -19,13 +20,15 @@ function Portfolio() {
             </div>
             <div className="slide-container">
 
-                <Carousel>
+                    <Carousel>
 
-                    <img src={legacygames} alt="placeholder" />
-                    <img src={fundacion} alt="placeholder" />
-                    <img src={econotravel} alt="placeholder" />
-                    <img src={gallery} alt="placeholder" />
-                </Carousel>
+                        <img className="slider-image" src={legacygames} alt="placeholder"/>
+                        <img className="slider-image" src={fundacion} alt="placeholder"/>
+                        <img className="slider-image" src={econotravel} alt="placeholder"/>
+                        <img className="slider-image" src={gallery} alt="placeholder"/>
+
+                    </Carousel>
+
 
             </div>
         </div>
