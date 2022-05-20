@@ -49,7 +49,7 @@
         max-height: 300px;
         max-width: 300px;
     }
-}
+
 .about-me {
     width: 70%;
     height: 700px;
@@ -64,4 +64,6 @@
 
 .home-bio {
     font-size: 20px;
+}
+
 }
