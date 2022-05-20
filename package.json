@@ -2,7 +2,6 @@
   "name": "personal-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "Lalu163.github.io/personal-page",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -18,8 +17,6 @@
     "webfontloader": "^1.6.28"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
