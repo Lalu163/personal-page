@@ -78,7 +78,7 @@
     max-height:39px;
 }
 
-@media only screen and (max-width: 790px){
+@media only screen and (max-width: 634px){
     .contact{
         width:70%;
         height:300px;
@@ -96,7 +96,7 @@
 
     .icon-container{
         height:150px;
-        width:300px;
+        width:200px;
     }
 
     .mail-section{
@@ -106,7 +106,7 @@
     }
 
     .mail-icon{
-        max-height: 20px;
+        max-height: 15px;
         padding-top:18px;
         margin-right:10px;
         margin-bottom:3px;
@@ -115,7 +115,7 @@
     .mail{
         margin-left:0;
         margin-bottom:3px;
-        font-size: 15px;
+        font-size: 10px;
     }
 
     .mobile-section{
@@ -124,7 +124,7 @@
     }
 
     .mobile-icon{
-        max-height: 20px;
+        max-height: 15px;
         margin-right:10px;
         padding-top:3px;
     }
@@ -132,24 +132,24 @@
     .mobile-phone{
         margin-left:0;
         margin-top:0;
-        font-size: 15px;
+        font-size: 10px;
     }
 
     .link-icons{
-        width:150px;
+        width:100px;
         display:flex;
     }
 
     .linkedin-icon{
-        max-height:30px;
+        max-height:20px;
     }
 
     .github-icon{
-        max-height:30px;
+        max-height:20px;
     }
 
     .resume-icon{
-        max-height:30px;
+        max-height:20px;
     }
 }
 
