@@ -30,8 +30,41 @@
 }
 
 .slider-image{
-    height:450px;
+    height:430px;
     width: 750px;
+}
+
+@media only screen and (max-width: 790px) {
+    .portfolio{
+        width:70%;
+        height:550px;
+    }
+
+    .portfolio-container{
+        margin: 60px;
+    }
+
+    .portfolio-title{
+        font-size: 30px;
+        padding: 30px 0 0;
+        margin-bottom:0;
+    }
+
+    .portfolio-info{
+        text-align: justify;
+        font-size: 15px;
+    }
+
+    .slide-container{
+        margin-left: 60px;
+        margin-right: 50px;
+
+    }
+
+    .slider-image{
+        height:200px;
+        width: 750px;
+    }
 }
 
 @media only screen and (max-height: 767px) and (orientation: landscape){
