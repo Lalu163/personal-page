@@ -54,3 +54,54 @@
 .right-arrow {
     right: 24px;
 }
+
+@media only screen and (max-width: 634px){
+    .carousel-container {
+
+    }
+
+    .carousel-wrapper {
+
+    }
+
+    .carousel-content-wrapper {
+
+    }
+
+    .carousel-content {
+        display: flex;
+        transition: all 250ms linear;
+        -ms-overflow-style: none;  /* hide scrollbar in IE and Edge */
+        scrollbar-width: none;  /* hide scrollbar in Firefox */
+    }
+
+    /* hide scrollbar in webkit browser */
+    .carousel-content::-webkit-scrollbar, .carousel-content::-webkit-scrollbar {
+
+    }
+
+    .carousel-content > * {
+
+    }
+
+
+    .left-arrow, .right-arrow {
+        position: absolute;
+        z-index: 1;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 40px;
+        height: 40px;
+        border-radius: 24px;
+        background-color: white;
+        border: 1px solid #ddd;
+    }
+
+    .left-arrow {
+        left: 12px;
+    }
+
+    .right-arrow {
+        right: 12px;
+    }
+}
