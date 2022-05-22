@@ -11,7 +11,7 @@ function Portfolio() {
         <div className="portfolio" id="portfolio">
             <div className="portfolio-container">
                 <h1 className="portfolio-title">Portfolio</h1>
-                <p1 className="portfolio-info">Below are some screenshots of the current projects that I am worked as a
+                <p1 className="portfolio-info">Below are some screenshots of the current projects that I've worked as a
                     contributor
                     , and will continue to work
                     on daily on my own. I integrate all of the tips and techniques that I learn into my projects as soon
